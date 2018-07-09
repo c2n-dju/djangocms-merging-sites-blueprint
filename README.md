@@ -10,8 +10,8 @@ has a number of advantages.
 - independent 1-process uwsgi tasks
 
 For editing, SITE_ID=1 corresponds to https://edit-www.lab.science/,
-SITE_ID_2 corresponds to https://edit-team-a.lab.science/,
-SITE_ID_3 corresponds to https://edit-team-b.lab.science/, etc.
+SITE_ID=2 corresponds to https://edit-team-a.lab.science/,
+SITE_ID=3 corresponds to https://edit-team-b.lab.science/, etc.
 
 The standard way to publish the edited content is to use several sites
 http://www.lab.science/,  http://team-a.lab.science/,  http://team-b.lab.science/, etc.
